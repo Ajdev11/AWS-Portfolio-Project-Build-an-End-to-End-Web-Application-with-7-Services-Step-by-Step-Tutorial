@@ -2,7 +2,7 @@
 
 ## Services to Be Used
 - **GitHub** – Code repository and version control  
-- **AWS IAM (Identity and Access Management)** – Manage permissions and security  
+- **AWS IAM (Identity and Access Management)** – Manage permissions and security, to create roles and policies 
 - **AWS Amplify** – Hosting the frontend and continuous deployment  
 - **Amazon Cognito** – User authentication (sign-up, login, and session management)  
 - **AWS Lambda** – Serverless backend logic (ride-sharing functionality)  
