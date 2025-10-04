@@ -61,4 +61,4 @@
 3. **Lambda** executes ride-sharing logic.  
 4. **DynamoDB** stores and retrieves ride data.  
 5. **Cognito** handles user authentication/authorization.  
-6. **GitHub + Amplify** ensure continuous deployment of frontend updates. 
+6. **GitHub + Amplify** ensure continuous deployment of frontend updates (CI/CD)
